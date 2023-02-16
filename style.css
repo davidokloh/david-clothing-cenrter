@@ -1,0 +1,56 @@
+.nav-links{
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+}
+nav{
+    display: flex;
+
+}
+.nav-links li{
+    display: inline-block;
+    padding-left: 20px;
+}
+.nav-links a{
+    color: white;
+    text-decoration: none;
+}
+.oko{
+    background-image: url(/images/shop\ ima.jpg);
+    background-color: rgb(46, 46, 46);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.ina{
+    text-align: center;
+}
+.an{
+    text-align: center;
+}
+.ali{
+    background-image: url(/images/cover.jpg);
+    height: 200vh;
+}
+.dav{
+    text-align: center;
+}
+.oc{
+    height: 2%;
+}
+.ina{
+    text-align: center;
+}
+.he{
+    background-image: url(/images/f\ gown1.jpg);
+}
+.o{
+    text-align: center;
+}
+.li{
+    text-align: center;
+}
+.gr{
+    background-image: url(/images/lok.jpg);
+}
